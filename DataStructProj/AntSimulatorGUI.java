@@ -15,7 +15,7 @@ static JButton forgerButton = new JButton();
 static JTextField dayCount = new JTextField();
 static JTextField turnCount = new JTextField();
 static ArrayList <ant> antColony = new ArrayList<ant>();
-static int ID = 0;
+static int ID = 0; //initalizing id
 static gridNode[][] myGridNode;
 	
 	String foodLabel = "Food: ";
